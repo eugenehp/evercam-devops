@@ -1,15 +1,15 @@
-[submodule "evercam_api"]
-	path = evercam-api
-	url = https://github.com/evercam/evercam_api.git
-[submodule "evercam_dashboard"]
-	path = evercam-dashboard
-	url = https://github.com/evercam/evercam_dashboard.git
-[submodule "evercam_models"]
-	path = evercam-models
-	url = https://github.com/evercam/evercam_models.git
+[submodule "evercam-api"]
+        path = evercam-api
+        url = https://github.com/eugenehp/evercam-api.git
+[submodule "evercam-dashboard"]
+        path = evercam-dashboard
+        url = https://github.com/evercam/evercam-dashboard.git
+[submodule "evercam-models"]
+        path = evercam-models
+        url = https://github.com/evercam/evercam-models.git
 [submodule "evercam-ruby"]
-	path = evercam-ruby
-	url = https://github.com/evercam/evercam-ruby.git
+        path = evercam-ruby
+        url = https://github.com/evercam/evercam-ruby.git
 [submodule "evercam-media"]
-	path = evercam-media
-	url = https://github.com/evercam/evercam-media
+        path = evercam-media
+        url = https://github.com/eugenehp/evercam-media.git
