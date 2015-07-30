@@ -52,8 +52,12 @@ bundle install
 bundle exec rspec --pattern 'c*/*_spec.rb,h*/*_spec.rb'
 
 cd /vagrant/evercam-media
+npm install -g brunch
+npm install
+brunch build
 mix deps.get && mix deps.compile && mix compile
 mix test
+mix phoenix.server
 ```
 
 #### You're done!
